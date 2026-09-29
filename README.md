@@ -6,21 +6,22 @@ O repositório será utilizado para armazenar as atividades desenvolvidas ao lon
 
 ## Atividades
 
-* [Atividade 1 — Fundamentos e Características da Qualidade](atividades/atividade-01/atividade-01-fundamentos-qualidade.md)
-* Atividade 2 — Em breve
-* Atividade 3 — Em breve
+* [Atividade 1 — Fundamentos e Características da Qualidade](atividade-01/atividade-01-fundamentos-qualidade.md)
+* [Atividade 2](atividade-02/atividade-02.md)
+* [Atividade 3 — Estratégia e Projeto de Testes](atividade-03/atividade-03-estrategia-projeto-testes.md)
 
 ## Estrutura do repositório
 
 ```text
 localeats-qualidade-de-software/
 ├── README.md
-└── atividades/
-    ├── atividade-01/
-    │   ├── atividade-01-fundamentos-qualidade.md
-    │   └── evidencias/
-    ├── atividade-02/
-    └── atividade-03/
+├── atividade-01/
+│   ├── atividade-01-fundamentos-qualidade.md
+│   └── evidencias/
+├── atividade-02/
+│   └── atividade-02.md
+└── atividade-03/
+    └── atividade-03-estrategia-projeto-testes.md
 ```
 
 ## Projeto
@@ -33,5 +34,7 @@ localeats-qualidade-de-software/
 Curso: **Análise e Desenvolvimento de Sistemas (ADS)**
 
 ---
+
+Rafaela Boldt
 
 Repositório destinado exclusivamente para fins acadêmicos.
