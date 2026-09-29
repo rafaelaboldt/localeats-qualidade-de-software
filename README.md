@@ -7,7 +7,7 @@ O repositório será utilizado para armazenar as atividades desenvolvidas ao lon
 ## Atividades
 
 * [Atividade 1 — Fundamentos e Características da Qualidade](atividade-01/atividade-01-fundamentos-qualidade.md)
-* [Atividade 2](atividade-02/atividade-02.md)
+* [Atividade 2 - Organização da Qualidade no LocalEats](atividade-02/atividade-02.md)
 * [Atividade 3 — Estratégia e Projeto de Testes](atividade-03/atividade-03-estrategia-projeto-testes.md)
 
 ## Estrutura do repositório
