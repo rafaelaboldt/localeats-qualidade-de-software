@@ -25,7 +25,7 @@
 | Problema identificado                                                       | Possível consequência para o produto ou para a equipe                                                                                                                                          |
 | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Os critérios para considerar uma funcionalidade pronta não estão claros.    | Uma funcionalidade pode ser considerada concluída mesmo sem atender completamente aos requisitos ou às necessidades dos usuários.                                                              |
-| Alguns integrantes acreditam que somente o QA deve testar.                  | Problemas que poderiam ser encontrados durante o desenvolvimento podem chegar até a etapa final, aumentando o retrabalho e concentrando a responsabilidade pela qualidade em uma única pessoa. |
+| Testes QA                  | Problemas que poderiam ser encontrados durante o desenvolvimento podem chegar até a etapa final, aumentando o retrabalho e concentrando a responsabilidade pela qualidade em uma única pessoa. |
 | Defeitos são identificados, mas nem sempre são registrados ou acompanhados. | Os defeitos podem ser esquecidos, voltar a aparecer em versões futuras ou não ter um responsável definido para sua correção.                                                                   |
 
 ### A qualidade do LocalEats deve ser responsabilidade exclusiva do profissional de QA?
